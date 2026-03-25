@@ -13,23 +13,6 @@
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
   <img alt="ClickUp" src="https://img.shields.io/badge/-ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" />
 </p>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/yourusername/ai-tiktok-automation"><b>AI TikTok Automation</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/yourusername/ai-tiktok-automation?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/yourusername/ai-tiktok-automation?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/yourusername/ai-tiktok-automation?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yourusername/ai-tiktok-automation?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/yourusername/digital-game-store"><b>Digital Game Store</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/yourusername/digital-game-store?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/yourusername/digital-game-store?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/yourusername/digital-game-store?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yourusername/digital-game-store?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
 
 <h3>Where to find me</h3>
 <p>
