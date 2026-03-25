@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Your Automation  Partner .</h1>
 
-<p>Welcome to my page! </br> I'm <b>Badr_elb</b>, Automation & CRM Specialist , currently exploring global automation solutions 🌍.</p>
+<p>Your Automation N8N Partner | Smart Workflows, Smart CRMs . AI agents </br> I'm <b>Badr_elb</b> </p>
 
 <h3>Things I automate & code with</h3>
 <p>
