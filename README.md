@@ -18,5 +18,6 @@
 <p>
 <a href="https://github.com/Badr_elb" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/Badr_elb" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.upwork.com/freelancers/~01e6863dad71034d13?mp_source=share" target="_blank"><img alt="upwork" src="https://res.cloudinary.com/dge2hqgqp/image/upload/v1770902407/logos/upwork_logo-removebg-preview.png" /></a>
+<a href="https://www.upwork.com/freelancers/~01e6863dad71034d13?mp_source=share" target="_blank">
+  <img alt="Upwork" src="https://img.shields.io/badge/Upwork-%2317A864?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 </p>
