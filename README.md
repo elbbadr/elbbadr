@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm <b>Badr_elb</b>, Automation & CRM Specialist from <img src="https://cdn-icons-png.flaticon.com/512/197/197547.png" width="13"/> <b>Nador, Morocco</b>, currently exploring global automation solutions 🌍.</p>
+<p>Welcome to my page! </br> I'm <b>Badr_elb</b>, Automation & CRM Specialist , currently exploring global automation solutions 🌍.</p>
 
 <h3>Things I automate & code with</h3>
 <p>
@@ -13,25 +13,6 @@
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
   <img alt="ClickUp" src="https://img.shields.io/badge/-ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" />
 </p>
-
-<h3>Featured Projects</h3>
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>🎁 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/yourusername/hotel-crm-automation"><b>Hotel CRM Automation</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/yourusername/hotel-crm-automation?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/yourusername/hotel-crm-automation?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/yourusername/hotel-crm-automation?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yourusername/hotel-crm-automation?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/yourusername/ai-tiktok-automation"><b>AI TikTok Automation</b></a></td>
